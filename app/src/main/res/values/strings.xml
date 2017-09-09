@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">VCare</string>
+    <string name="title_parking_slots">Parking availability</string>
+    <string name="title_registered_guests">Registered Guests</string>
+    <string name="title_settings">Setting</string>
+    <string name="auth_failed">Sign In Failed</string>
+    <string name="ipsum">ipsum</string>
+    <string name="webclienttype">{"web":{"client_id":"1043465296538-j2699l6fr4f56p3apj7drsr7t4i4f1h8.apps.googleusercontent.com","project_id":"parkr-ea8ee","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://accounts.google.com/o/oauth2/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"gFal3EIDAYl20ZqnVbaR7w-h","redirect_uris":["https://parkr-ea8ee.firebaseapp.com/__/auth/handler"],"javascript_origins":["http://localhost","http://localhost:5000","https://parkr-ea8ee.firebaseapp.com"]}}</string>
+    <string name="login_with_phone_number">Login with Phone Number</string>
+    <string name="login_with_email_id_and_password">Login with Email id and password</string>
+    <string name="add_phone_number">Guest Name</string>
+    <string name="enter_email_id"> Email</string>
+    <string name="enter_password">Password</string>
+    <string name="button_email_confirm">Confirm</string>
+    <string name="phone_confirm">Confirm</string>
+    <string name="or_create_new_user">or Create new User</string>
+    <string name="saved_email">saved_email</string>
+    <string name="saved_name">saved_name</string>
+    <string name="sign_in_cancelled">Back button was pressed</string>
+    <string name="no_internet_connection">Internet not available</string>
+    <string name="unknown_error">Snap! Something went wrong</string>
+    <string name="unknown_sign_in_response">Oops! Something went wrong</string>
+    <string name="header_image">Header</string>
+    <string name="menu_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_about">About us</string>
+    <string name="menu_chat">Chat</string>
+    <string name="start_adding_slots">Unfortunately Nothing here. You can add slots for when your parking is available!</string>
+    <string name="start_adding_guests">Unfortunately Nothing here. You can start registering parking spots for your guests over here!</string>
+    <string name="menu_log_out">Sign Out</string>
+    <string name="start_chatting">No messages. Start chatting at the bottom!</string>
+    <string name="send">Send</string>
+
+</resources>

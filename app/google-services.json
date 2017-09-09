@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "635949852799",
+    "firebase_url": "https://vcare-c2e20.firebaseio.com",
+    "project_id": "vcare-c2e20",
+    "storage_bucket": "vcare-c2e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635949852799:android:4d7e8829cb80a58d",
+        "android_client_info": {
+          "package_name": "com.vccare.mananwason.vcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635949852799-v6ohv4nuhk3p8kbtm14b24durv7bdcui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vccare.mananwason.vcare",
+            "certificate_hash": "9a9d3b207d6093b030a3c2ac1c3b2f04f4533934"
+          }
+        },
+        {
+          "client_id": "635949852799-pcl1p3lune05ok9akvfkgbsk0fs4ji7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMPe82v_Y-VjrZM_mntprd2E6scTakFsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635949852799-pcl1p3lune05ok9akvfkgbsk0fs4ji7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
