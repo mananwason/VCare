@@ -43,7 +43,7 @@ public class LoginActivity extends AppCompatActivity {
                     .build(), RC_SIGN_IN);
         }
         else {
-            Intent launchNextActivity = new Intent(this, MainActivity.class);
+            Intent launchNextActivity = new Intent(this, MapsActivity.class);
             launchNextActivity.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             launchNextActivity.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
             launchNextActivity.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
@@ -97,7 +97,7 @@ public class LoginActivity extends AppCompatActivity {
                 } else {
 
                 }
-                startActivity(new Intent(this, MainActivity.class));
+                startActivity(new Intent(this, MapsActivity.class));
                 finish();
                 return;
             } else {

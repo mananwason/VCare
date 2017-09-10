@@ -1,0 +1,684 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "CpQCAwEAADovQr6_npvSyY2XVPvDAQ7vZDaZlBELPCMGBHaZOUCc3O1OkoDyYA48l_Yrn4a7Yee3yzf2GriT0Vc4xtdRlyxCEHzzsITG92hPqU0ai8sndUxYarzoVGkGnyIIg09xCwrLveq1e0UCZN9ZUoWxULsX4yPqkeDr6fZx7gmeMNTuxOJHQTOhThl_XIKp0WxsVWQ4sHuPxv_aSqZmNT_slM2gY-fCj1BZ-1FYt-5mH4XzULUIrabunomyP5WM5j5psDgYjtNlwZCyCrstiezZvJw92Qxoe2wuLoNJLzT6r5T9MsDnFMykXepjDLt7I6Zu1QtobG-kW16AqBSPwX4h3CGyCjFcOw2lfQWOZYEeM6YkEhBWEUFo5ZiwsQNGP15Jj4VPGhReLg8flM78DQQAS5TW_zbEzB9xrQ",
+  "results" : [
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.3296381,
+          "lng" : -76.61497
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3311102302915,
+            "lng" : -76.61330266970849
+          },
+          "southwest" : {
+            "lat" : 39.3284122697085,
+            "lng" : -76.61600063029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "5d51f03b1ea39754db111d8881c80e315965d3e8",
+      "name" : "MedStar Union Memorial Hospital",
+      "photos" : [
+        {
+          "height" : 680,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\"\u003eAli Brown\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAkcjpalSpcg6Ys8ZKq7DdYiFtd4OPI8eSoz79uFk0YNweQyYJjzIihMEuUst-oin4E9chbqfLClOdGx6lsA_z-asi3mcwmoKI5UFWttATxgDhlZ3sWnApRf8O1wiwoNKYEhBSewZppsGnGl1H9Cora8OMGhQ4MWvao-bMj_Z14dxUv6e5c9EPgA",
+          "width" : 1023
+        }
+      ],
+      "place_id" : "ChIJf6eTNh4FyIkRb3_-YaVappY",
+      "rating" : 3.7,
+      "reference" : "CmRSAAAAGBEISzUE7Yp2VRr1xDnjDggx-CFow4EUtzt0mx-WNRnD3Kmz1f6WG9i1vmdotSIDW6amDs3WtmalKuA7EtBu_dIAi7D-oabklid2HQ05fqfNjUNEJlonjvn1woMLfa2uEhA4Biu9dFTJB1dO14_SveHrGhQ-Ll4741wqZSuyRWvqTBgw-FoFpg",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "201 East University Parkway, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2967385,
+          "lng" : -76.59273619999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.29831425,
+            "lng" : -76.59006455000001
+          },
+          "southwest" : {
+            "lat" : 39.29446244999998,
+            "lng" : -76.59362674999998
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "86ecddf69bae0a69e208a2625d76360c27a750b9",
+      "name" : "The Johns Hopkins Hospital",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106906445254967781122/photos\"\u003eNav Gi\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAgTCv77VXDb8i_mqYEnj-bXTZOyTGiVNjMjVwWs_y8fUyzpao17V3A75-XrrSmleiTHfoNB6yHrhzjVr6higt0VI1oIcwTzvvdKqHqqj4PU_gB-2I7csvGxlT3OFfXU7bEhB2NJA5VqtUPjEwRM6lSu7yGhSh41eoYpE8Ukz_LPijcBdkB-aHRQ",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJQZt_3WIEyIkRj4yKpDbd7ew",
+      "rating" : 3.8,
+      "reference" : "CmRSAAAAnQVvehlpUoFuJXTzecNZuJ9Mbuy9gW7MiyHddYsnm4GfmldTPPQYgyybC0iJUXftWlhbCziVw1YtZfCmQ1Zffj-cXInRfh7eVYRoTk1kKnJ2LF3qUZTihQvI07B7rslEEhDShQ1mqI6Mo1Jb_PFBOhJ1GhRiq32vONCKnTaWIzxd1cKUXAvD2g",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+      "vicinity" : "1800 Orleans St, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2986593,
+          "lng" : -76.5940475
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3000063802915,
+            "lng" : -76.59274661970849
+          },
+          "southwest" : {
+            "lat" : 39.29730841970851,
+            "lng" : -76.59544458029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "6f8844db75e2965a5d6db541e081a63759bee891",
+      "name" : "Kennedy Krieger Institute",
+      "photos" : [
+        {
+          "height" : 2268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115873075500912823545/photos\"\u003eFrank Guidry\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAXVx_OdVf2u75aebkMc1FP_TclCUDlPpTj7k_b71sPAzHrpy-yMTcpumTTPLb_XuNZdSmAF1U6SJvfMvV5CL3poFreMOAAxTCgswdqk-0sjTgcGl3lCm5zgzANBVDhptJEhCK4ilMVe0DrzOiLectJHnmGhReEUtyWQ_wXW2khq0XADoawvCMYg",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ0ZYTZGIEyIkR7Y6XnaJVENQ",
+      "rating" : 4.6,
+      "reference" : "CmRSAAAAGgukdT46PuBGqRZgCbX4ax-gU2bN9PI_Xhjjx38h1F2tYGzKL9jxtrQPSt5nBQ-H7orJ72Ho-ePw0rqTJDeZx5-hHPszVTCkkyj4AC3253lu57EiwiBizoSHM6WCKl0OEhALT0Rbr-tj8R2lg-HCzxdWGhRPnwuwSgr1kdsXU5zRNQ3A326zEA",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "707 North Broadway, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.3526157,
+          "lng" : -76.661945
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.35485895,
+            "lng" : -76.66109736970849
+          },
+          "southwest" : {
+            "lat" : 39.35186795000001,
+            "lng" : -76.66379533029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "a7a7ec7d0a3b0fc89a13639b79f12847149dc88f",
+      "name" : "Sinai Hospital",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1836,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102156486317092918980/photos\"\u003eد.سمير الجيزاوي\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA6AZ4CTDDDX1WOua5mySbVyESa13Ojwp2YQLvL2jVlEaT4_tnhtImZ1GrdvQkp2tmcCdWBdY84uWoRweDELqDIkblhMhk2z1DV9Zcvr72rWZBC6U1S4xqDkMhJzcJtfZLEhD7-ndImHq5uhJZv3oEijPiGhTAuflYtNPmjgm14y1OcgwOrRS1_A",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJJ5S8T8AayIkR5mjrucn5Lnc",
+      "rating" : 3,
+      "reference" : "CmRRAAAA8pG94d79_qiTXY1GVCFvF4UM-tdzMkQCT0_1DhW_wfA4Hql93bUGltUyeRNTsfZ4Oqap-hfjXUMv8xCOhsjIUdR18REGMwXp0mzC2JttXRtrL5WylsB3RkV72uWM2Ia3EhBSsG8Kdiw8gMxiV12FCcyYGhSI7SccmXeM4OlMhP2AQshL7qT8_A",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "2401 West Belvedere Avenue, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2942363,
+          "lng" : -76.61291
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.29544988029149,
+            "lng" : -76.6114289697085
+          },
+          "southwest" : {
+            "lat" : 39.29275191970849,
+            "lng" : -76.6141269302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "75645fe016c9b5ebf9a61b34f410fe6e96f0fd1c",
+      "name" : "Mercy Medical Center",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1228,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103013210953039009415/photos\"\u003eMercy Medical Center\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAv52bmgAodihwATw6XQc0iCr44xiyhBgvp1LIuXAVc7YTxsUmPsu2HY_f7DYBBzt5p_Ei4S63E22WsUqUNPxX4HDfcLJXll4I29TiQkd0ebhLNhknbx6wpO5B9bUAlhT4EhDWqunZUZ06yCeyaRcqd-78GhRGBTywAQnYlB8eTelC9kGFfoKlZw",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJPwGTyZ4EyIkRuFeRl_oktRc",
+      "rating" : 3.6,
+      "reference" : "CmRRAAAAUw3sg_MIhXTJqg_M5CUrfs9J8ML8KKQioL7o42-J1S9pvmymEaStuf3iJkVuITx8ZFzg0kGuSMRUZPmu8g_nCBW6KKYtRxAnDfvyQ6TgkZM7MQVfDs4t0L893UufUArLEhBMtU3Zt9jYaN9Nk3GbLjIEGhRnfV089-NxSRpEzwyf_q-OEgdNHQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "345 Saint Paul Place, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.3581834,
+          "lng" : -76.5871348
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.35960113029151,
+            "lng" : -76.5860697697085
+          },
+          "southwest" : {
+            "lat" : 39.35690316970851,
+            "lng" : -76.58876773029152
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "51c0c595c81bb44e199ba6af59b6d18aabdb1293",
+      "name" : "MedStar Good Samaritan Hospital",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 487,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\"\u003eAli Brown\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAbNzDMw76oPqFud67ZAqGdtm6QDYoyJZvLpmA4iRS8rlWWbeQWC7xTIrDfjI7fRXpKVk91-Wt_55d5lQPrAgWYHmiZUidP66GkW39KqpizS9V4qhNqthReuY1aKXP_9DCEhAbtMyBPWkz99YzHaVi3FkJGhST1dybtTA6Vhd2g94r0ojRgt7MXw",
+          "width" : 984
+        }
+      ],
+      "place_id" : "ChIJ63mL3IQFyIkRU6K4Sol0B3E",
+      "rating" : 3,
+      "reference" : "CmRRAAAAqy25UhQibqkCa6Dt3Y4qmh9XV_ypfgP0gBzY0raiI14OFNUi99UnPqaf0r5S0_Bsi1yeyci5oOQkPN-JVlPlmZ9yWTFW0ChAZ3hF8ar6pav9zlIASDUpCHrwWg-lVEByEhDEDbPxj3M54Q_Lp0u5zhAEGhQ79v-aRivZS2pf98DNTK0pGK1muw",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "5601 Loch Raven Boulevard, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.32912719999999,
+          "lng" : -76.61428719999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3304655802915,
+            "lng" : -76.61327341970849
+          },
+          "southwest" : {
+            "lat" : 39.3277676197085,
+            "lng" : -76.61597138029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "1922de7201dac7a4b8e0f6f292353f488ada4ff7",
+      "name" : "Arnold Palmer SportsHealth Center",
+      "place_id" : "ChIJEQtx1uEEyIkR_RIe63PIsWM",
+      "rating" : 5,
+      "reference" : "CmRRAAAA_GO_RyTaoBHzHJ6D97DyszMSYChnCbSUxRIjXy3JREjTrZvZlyReHqZf3DifvJ6DEPmHVHUBrlPz-O78-kQdZl-2sytbnvOb7V6jgcBRg8_vIf5-m_9cipPLTlaCk29FEhD_DztBpNaIYykDqwbnjGaIGhQG1Np4KuxfhC2timfDKqFxeDBixw",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+      "vicinity" : "3333 North Calvert Street # 210, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.352624,
+          "lng" : -76.661965
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.35484790000001,
+            "lng" : -76.66111301970848
+          },
+          "southwest" : {
+            "lat" : 39.3518827,
+            "lng" : -76.6638109802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "cd03345050e1c6b5eb0c1d49b6c6feaacad9e08e",
+      "name" : "Sinai Hospital Sleep Center",
+      "place_id" : "ChIJkY1PbcAayIkRvRJGPQlonF4",
+      "reference" : "CmRRAAAABni6As3elPiXIFVrHnNWZcU0X7ZXfIlCc8-yTlr7btkZEZobNokOtJ9-x90J-3iqA2S35BHn2z3EhM-fSyUsJDXyc1rW8i7z870pbW06HGc1i1GJ9ovnp5uxKSz30muNEhChvDa5cik1GyAJXcaowLzxGhRyjJ1_BNTmTgYg5vyBHYDPs3mofQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+      "vicinity" : "2401 West Belvedere Avenue, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2881658,
+          "lng" : -76.6243752
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.2895257802915,
+            "lng" : -76.62265311970849
+          },
+          "southwest" : {
+            "lat" : 39.28682781970851,
+            "lng" : -76.62535108029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fa3cb6c08e49e303a8dd2d80a313071bcd01916b",
+      "name" : "University of Maryland Medical Center: General Surgery",
+      "place_id" : "ChIJfZI6mlgDyIkRF07QHeU2yJ0",
+      "reference" : "CmRSAAAAukq4WKjxsxQEtjRzNhk9-9NlW70IcSAwFbR1np4YqgoBvD7XOged055opX6bKnVrK0_7NK7qrBF-LmR8HYly_aUs2mcbt7IpucZk5izkWcf7Q5dG6cUa5RE7cDy3o-5HEhAjhzEMUcYCPOXva_cQZL2WGhQhaOAAaxjeuXB69Zu--bsRJfV6ig",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+      "vicinity" : "22 South Greene Street, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.358399,
+          "lng" : -76.587198
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3600013302915,
+            "lng" : -76.58633895
+          },
+          "southwest" : {
+            "lat" : 39.3573033697085,
+            "lng" : -76.58977514999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "3a088cc3161645139c7ae749bdd107a2e9e78fdf",
+      "name" : "Cheaspeake Urology",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1097,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109671384937711949087/photos\"\u003eCheaspeake Urology\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAYu-NVrvm4L5zeUYof4gpNixgGoXfjfgO4akp5iN6fFU59QmXxddYAaX7a7F5iGbQq3JzKBD_5t-dClvXW3YSy7iBj63A8jhFbkIAeA9MOuisPr2xBfovUb0dRlCuGwSyEhCUHGd4soQ6rwAlVGtvkc81GhRlIQnygSePRxDD2fh5IZWzzjc8uw",
+          "width" : 2866
+        }
+      ],
+      "place_id" : "ChIJ63mL3IQFyIkR-_UvaU02XdE",
+      "rating" : 1,
+      "reference" : "CmRSAAAA4SMX-NQxy2ijMLDXWUQ8j3Pf4JO6nSzDomv4R-o8PUFuaSwykb5sfw23Jq5OpW3iSh6fxOzMIvKJGYjSV5fA6DDHNXh_s_sQ97esUW20nReL-P_WockCP9PF-hlRSfWtEhA7tsdrpWf7LSKmy9A1OPeMGhSQpwDNon_6Q8kKlscP3cl1HZNNaw",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+      "vicinity" : "5601 Loch Raven Boulevard Suite 507, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2999541,
+          "lng" : -76.5936133
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3013059802915,
+            "lng" : -76.5925772197085
+          },
+          "southwest" : {
+            "lat" : 39.2986080197085,
+            "lng" : -76.59527518029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "febfac2b3ead628fba8735740a8c7c71c282a428",
+      "name" : "Kennedy Krieger Institute Outpatient Center",
+      "place_id" : "ChIJ0ZYTZGIEyIkRChQYqKNm0aM",
+      "rating" : 3,
+      "reference" : "CmRSAAAAdV4gWVEytkChUJefwyzHz79tei3du6DxneijdBL7dOkK99K1ST_cUlvK9SxfGm568fEzCTipkZ48rE6VVHdINrxkB4VxTwJLqkg26qlfYLMHOh69u8wCNhNfeJs0CzNJEhDIzGl5a6154TiW8CaAh2ooGhSttihZv_kv50rS7PybEb0apZXbzA",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "801 North Broadway, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.329267,
+          "lng" : -76.614289
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3309370302915,
+            "lng" : -76.61261151970849
+          },
+          "southwest" : {
+            "lat" : 39.3282390697085,
+            "lng" : -76.61530948029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "43bfee3ab86160a874e5b37e7ec83605cef5e167",
+      "name" : "Union Memorial Hospital: Neurology Department",
+      "place_id" : "ChIJrUfHJB4FyIkRjHYVsm4upPg",
+      "reference" : "CmRSAAAAN3tQPxmKLl07tIfmnBDP_axOLjrdtwfR54dXnXjtM0XYikBA7B2GQ1mnu1ZkRjt0vOL-T0hk4dlyElvVY2UInkCKlAehTSOF7KHay_vuDrkuJVMabpuHJ5kTg2maBzk5EhD9K9ZoOGZmMWJzO1lPfKa2GhT51aNbRjh_6fx8LCbYGqmPWlmtdQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "201 East University Parkway, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.3631328,
+          "lng" : -76.65369389999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.36400598029149,
+            "lng" : -76.65210371970849
+          },
+          "southwest" : {
+            "lat" : 39.3613080197085,
+            "lng" : -76.6548016802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "08b5bbd5f652631d29a1122d9125a63ce8ee9adf",
+      "name" : "Mount Washington Pediatrics Hospital",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1944,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112128057585882216987/photos\"\u003eMW PH\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAtpe_iQfmv3nh6rFarkUk7cRCkWwK9IfUu06yWz3tWTq9TXOTr27W0Wwb7RSe63qvf1mcU87lVHGKImo1WtjI9HIwtrDAv8chyOUXb2dT_toVLvru01NS5u5Ly9qg74M-EhCdEoRQUAtOcW0DR8nxqcsJGhRT-H36l1OJlxswI74SkxG8Jja9aw",
+          "width" : 2896
+        }
+      ],
+      "place_id" : "ChIJ0_JbpboayIkRYjp1nCUklGY",
+      "rating" : 3.8,
+      "reference" : "CmRRAAAAqQBjSqEmeYnZn_dJwfc-TnfCLnwRsc2lgmHeaZPharL3ZCwlXYcO-pHjO4HvO1ngR10zs4DoDBIzjIMkNnFxCC-rl6SwwVZ3-r1HY8BoFKFCkyfJnZgIepU8N3eSDASaEhB7KJzuMCrtSrbtn1x6YQCRGhRBjQas96NIMugiVN_j3teRCdj8Wg",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "1708 West Rogers Avenue, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2972453,
+          "lng" : -76.592212
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.29864003029149,
+            "lng" : -76.59006669999999
+          },
+          "southwest" : {
+            "lat" : 39.2959420697085,
+            "lng" : -76.5929271
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "463baa52960ab47d72025d65be76463862960a2c",
+      "name" : "Johns Hopkins Gi/hep",
+      "place_id" : "ChIJgZnf4GIEyIkRHqQXowdc0to",
+      "rating" : 5,
+      "reference" : "CmRSAAAAgFH-WkF-e2wQUE09CJ13XVHY5a81FheuaKDzsbBf7hbCZeBhl3mQ4br2k0fnsY3gRVKAP18bDnU9xMiKW9HQIzdzoSPwi7FmD8qYPz-n_Wk7PjORRduR-0cGGPsg6AsIEhC5-BRiYAEGmXSFlCgEvtPcGhRgBbWMN1C773h9NNCnIVbu_psAoQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "600 North Wolfe Street, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2987016,
+          "lng" : -76.593653
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3000424802915,
+            "lng" : -76.59255031970849
+          },
+          "southwest" : {
+            "lat" : 39.2973445197085,
+            "lng" : -76.5952482802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "4f4b38b108a5d79b695d70199ef13d1c5d4ae950",
+      "name" : "Center For Genetic Muscle Disorder",
+      "place_id" : "ChIJ0ZYTZGIEyIkRFEAJOLDwYwY",
+      "reference" : "CmRRAAAACX5iC335UWfqMdWj2SULjbnqc4GNdj4aCMGMUrxmeql6jVpX6pglINd9O3Qh-u0D7WTio12yN2aNTSRwWvatuFiVhq9l08aWdTQsRWPc_xo61C5n2T-lYM5GhctdCRvLEhD9mj-jr0BTMjHoOAj8FxaMGhR2HPKVB7WTDX2ngoJ9o5Jt_RF24w",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "707 North Broadway, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2997387,
+          "lng" : -76.6205751
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3010876802915,
+            "lng" : -76.6192261197085
+          },
+          "southwest" : {
+            "lat" : 39.2983897197085,
+            "lng" : -76.62192408029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "d42df09ee31d6e313df79d505b0a067ef8dbb883",
+      "name" : "University of Maryland Medical Center Midtown Campus",
+      "photos" : [
+        {
+          "height" : 3036,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116151562161476790757/photos\"\u003eErik Nilson\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAMkaUp0Mdp_QfETwv9fJW2ujDZ30-bmgMLK69MONVD-x8IIWVLzDPVHrqzCGYPcuEo46PmjSrcu-ptNbGGeaKFyu-82QtUCemAjJewUBdcxYDhfVy5BfnFeqgxoQ1PCk9EhBRQHd1diEZFHU4oGOMHr_8GhSIWVfRR3vDlKW0DFvd2i0-bdChIQ",
+          "width" : 4048
+        }
+      ],
+      "place_id" : "ChIJAbHBJr0EyIkRD-kw0RNMqzQ",
+      "rating" : 3,
+      "reference" : "CmRRAAAAeMCYXQYGBXis35sYxhsCAuEcw45YDrEx4HfRj5EMHlkpQ61pwNaT1EL-lDz07CUz3phvzye4tuwnyu6bxIuBWQrbHcz5ClhgbTZt96a2f1FAhS1wiiMaHnDkbB89NN5hEhCCrPCc7OoCjE_dt9uu7xeJGhTh2k93-HP40qw7wMRsAuqtjFoHIQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "827 Linden Avenue, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.3583012,
+          "lng" : -76.5873311
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.3598926302915,
+            "lng" : -76.5865091
+          },
+          "southwest" : {
+            "lat" : 39.35719466970851,
+            "lng" : -76.5897971
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "06d51c4aa841dc76d79ab3ab9ea65ef3388dff98",
+      "name" : "Dr. Teresa K Muns DO",
+      "place_id" : "ChIJ63mL3IQFyIkR7Cg5vnTyUtk",
+      "reference" : "CmRSAAAAg06Vt2yDkIFZW-EBsEixc4A7f6cbTu8TWwxArRfxqiTvN4LRDDprHXYRPn1O3_fajfYBG2AZA1GGt3gvvPnWooxDFAvOQI277-GfcddJ3M5QQhIVT1PHkIYU_vEygraLEhCHdoO3WBxl6h3d-zSee0OaGhSS-DVrfaIl125V5y8oixriJU3TYw",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "5601 Loch Raven Boulevard, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.296257,
+          "lng" : -76.591768
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.2971284802915,
+            "lng" : -76.59037426970849
+          },
+          "southwest" : {
+            "lat" : 39.29443051970851,
+            "lng" : -76.5930722302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "a9dc5edca493c50ac06e7246edba7de11d28e385",
+      "name" : "Johns Hopkins Children's Center",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2073,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114451592591287598101/photos\"\u003eAli Brown\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAApDya4mnpfT4D9x-dYSd3c7-m6xu2HlhEIw26KOihodCgGNuW3H1ojHEvlcY8D7WnHmw9E6ss47UMB2d5yGXa_Hl6HDOg4r-3uXQV8aIuQFzMw3iSUmHa5MSj2xDF8vUREhAoL5-EJmFaqYh11EYCa94QGhQoRT6UFWzI4ecXY8-sm1BKeRUOnw",
+          "width" : 3293
+        }
+      ],
+      "place_id" : "ChIJQZt_3WIEyIkR4gnR9R8re80",
+      "rating" : 4.5,
+      "reference" : "CmRSAAAAZNl43XY5FivfVtoLRV-R5BZLHV6veTtb6g5pAynRxgDyQzsAyo_bmjkHXQpQtSVhzwwXhV-QSVX3SgHxtPWFd44x_2Dk1ARHOCTieYIEyOHcmL-RbMLQJoCTjxSjgtbxEhAttdiPYS7Fr1ocOPXJ28GMGhRxFHqo3scOQGlCDb8zn5oB5PaCjg",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+      "vicinity" : "1800 Orleans Street, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2883342,
+          "lng" : -76.62188569999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.2898220802915,
+            "lng" : -76.62054301970849
+          },
+          "southwest" : {
+            "lat" : 39.2871241197085,
+            "lng" : -76.6232409802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "618c780ae448ec38232168f07f2b318abca835ff",
+      "name" : "University of Maryland Medical Center",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3264,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115407028535989096290/photos\"\u003eDr. Gottlieb\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAATW9vMwZzxAxGm0_930FPc59ZZcgD-GmeA655HYw0OCXwP7ojyKsbXLxqr0IIPYQh-SKsmp7qg3d5HghYQAJ2t4mwcKL696YXHo7-pMwChq03VaAZbvwcst-7Ww32X5EUEhAAadOe5nOudUDQ34YFrEOUGhSVGZV8Tk7CgDYEM4hS-8qfPlRxjA",
+          "width" : 1836
+        }
+      ],
+      "place_id" : "ChIJfZI6mlgDyIkRqVaCcE1EsXw",
+      "rating" : 5,
+      "reference" : "CmRRAAAAqUgy9kDpKTsNxG413fyVrsm8J2YFpnLKz09sgVnXx9jGSEkrf87_-QZVWxTOIx1SKUurEyiLbnDXhPFyKOLN9m9wlz_WkCziZa3sX0WOCcfXpN0GB-dQvas6QdFOUygXEhASFSr5k-EbOXXdqeWMcPfDGhSD4VTUQJYGo1eLyJouk95nbTFIEA",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "UM Professional Building, 419 West Redwood Street #320, Baltimore"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 39.2870647,
+          "lng" : -76.6275189
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 39.2885147302915,
+            "lng" : -76.6261776197085
+          },
+          "southwest" : {
+            "lat" : 39.2858167697085,
+            "lng" : -76.62887558029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+      "id" : "31ca74a661563621a491c2585515e900a0b2da29",
+      "name" : "University Of Maryland",
+      "place_id" : "ChIJrRMvD18DyIkRnJyZNQ1LXoY",
+      "rating" : 4.9,
+      "reference" : "CmRSAAAAFqsAGjGljKGZadniiAANgZJWzsFvgHvBb-hUyEqEnjHZTDDer4WE8RuvpjW2RQhuv4wFCfY8ZWrVf8nHBh8_gz1Bug2YcGPC-SIXOoOe8yuLOXWBOJP_2aJHd64MdZ3pEhCUJK58SwvcPIorFeRQqq2OGhS0TNhdzTxIMUExRwWej27icg9cIg",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "point_of_interest", "establishment" ],
+      "vicinity" : "737 West Lombard Street, Baltimore"
+    }
+  ],
+  "status" : "OK"
+}

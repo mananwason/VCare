@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">VCare</string>
-    <string name="title_parking_slots">Parking availability</string>
-    <string name="title_registered_guests">Registered Guests</string>
+    <string name="title_parking_slots">See Hospitals around me</string>
+    <string name="title_registered_guests">Make a Donation</string>
     <string name="title_settings">Setting</string>
     <string name="auth_failed">Sign In Failed</string>
     <string name="ipsum">ipsum</string>
@@ -31,5 +31,6 @@
     <string name="menu_log_out">Sign Out</string>
     <string name="start_chatting">No messages. Start chatting at the bottom!</string>
     <string name="send">Send</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>
