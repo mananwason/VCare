@@ -192,7 +192,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             @Override
             public boolean onMarkerClick(Marker marker) {
                 if(isDonation){
-                    startActivity(new Intent(MapsActivity.this, ));
+                    Intent intent = new Intent(MapsActivity.this, MakeDonationActivity.class);
+                    intent.putExtra("HOSP", marker.getTitle().split(":")[0]);
+                    startActivity(intent);
                 }
                 return false;
             }

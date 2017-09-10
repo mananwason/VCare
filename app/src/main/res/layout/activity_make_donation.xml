@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/healthcare" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/apt_icon"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="9dp"
+            android:layout_weight="0.3"
+            android:src="@drawable/ic_location_city_black_24dp" />
+        <!--<TextView-->
+        <!--android:id="@+id/ed_"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="0.4"-->
+        <!--android:padding="3dp"-->
+        <!--android:text="11:00 PM"-->
+        <!--android:layout_marginStart="75dp"-->
+        <!--android:textSize="17sp" />-->
+
+        <TextView
+            android:id="@+id/tv_money"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="70dp"
+            android:layout_weight="0.5"
+            android:text="Hospital Name"
+            android:padding="8dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/money"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="9dp"
+            android:layout_weight="0.3"
+            android:src="@drawable/ic_attach_money_black_24dp" />
+        <!--<TextView-->
+        <!--android:id="@+id/ed_"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="0.4"-->
+        <!--android:padding="3dp"-->
+        <!--android:text="11:00 PM"-->
+        <!--android:layout_marginStart="75dp"-->
+        <!--android:textSize="17sp" />-->
+
+        <EditText
+            android:id="@+id/ed_money"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="70dp"
+            android:layout_weight="0.5"
+            android:ems="6"
+            android:hint=""
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:padding="8dp" />
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="30dp"
+        android:text="Submit Donation" />
+
+</LinearLayout>

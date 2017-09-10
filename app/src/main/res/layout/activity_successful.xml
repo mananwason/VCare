@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/color_text_selected"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="265dp"
+        android:src="@drawable/successfulicon"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:padding="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Congratulations! Your act of kindness will make someone's day!" />
+
+</LinearLayout>
