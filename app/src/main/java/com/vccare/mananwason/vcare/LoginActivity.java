@@ -52,28 +52,6 @@ public class LoginActivity extends AppCompatActivity {
             finish();
         }
 
-//        View bottomSheet = findViewById(R.id.bottom_sheet);
-//        Button emailLoginButton = (Button) findViewById(R.id.email_login_button);
-//        Button phoneLoginButton = (Button) findViewById(R.id.phone_login_button);
-//
-//        emailLoginButton.setOnClickListener(this);
-//        phoneLoginButton.setOnClickListener(this);
-//
-//        mBottomSheetBehavior = BottomSheetBehavior.from(bottomSheet);
-//        mBottomSheetBehavior.setPeekHeight(200);
-//        mBottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
-//        mBottomSheetBehavior.setBottomSheetCallback(new BottomSheetBehavior.BottomSheetCallback() {
-//            @Override
-//            public void onStateChanged(@NonNull View bottomSheet, int newState) {
-//                if (newState == BottomSheetBehavior.STATE_COLLAPSED) {
-//                    mBottomSheetBehavior.setPeekHeight(0);
-//                }
-//            }
-//
-//            @Override
-//            public void onSlide(@NonNull View bottomSheet, float slideOffset) {
-//            }
-//        });
     }
 
 
